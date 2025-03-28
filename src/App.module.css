@@ -1,3 +1,5 @@
-.red {
-  background-color: var(--color-custom-red-1);
+@layer components {
+  .red {
+    background-color: var(--color-red-700);
+  }
 }
